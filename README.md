@@ -391,6 +391,8 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Idea To Revenue Masterclass](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - Become a Strategic Product Leader: Validate Ideas, Launch Great Products, Deliver Business Results.
  - [ ] [Coursera - Software Product Management](https://www.coursera.org/specializations/product-management) - Create Better Software using Agile Practices. Master Agile development and effective interactions to drive the making of great software products (Capstone Project)
  - [ ] [Pragmatic Marketing Courses](https://www.pragmaticmarketing.com/courses) - Product Management and Marketing Training
+ - [ ] [PM3 - Product Manager Course](https://cursospm3.com.br) - Course for Product Managers made by Product Managers for the Brazilian market - 100% in Portuguese.
+
 
 
  ### Blogs
